@@ -32,5 +32,7 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/@andresposada09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@andresposada09" height="30" width="30" /></a>
+  <a href="https://twitter.com/@andresposada09" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="@andresposada09" height="30" width="30" />
+  </a>
 </p>
