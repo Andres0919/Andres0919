@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Andrés Posada</h1>
 <h3 align="center">Web developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Hapi js and Vue js**
+- 🔭 I’m currently working on **Nodejs, Vuejs and Reactjs**
 
 - 🌱 I’m currently learning **Golang**
 
 - :books: I'm currently reading **Seven databases in seven weeks**
 
-- 💬 Ask me about **Javascript - vue, react, express js, hapi js**
+- 💬 Ask me about **Javascript - vue, react, expressjs, hapijs**
 
 - 📫 How to reach me **andres.posada0919@gmail.com**
 
-- :eyes: I'm currently watching **Vikings**
+- :eyes: I'm currently watching **The Billion Dolar Code**
 
 <p align="left">
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" title="Chartjs" width="40" height="40"/>
